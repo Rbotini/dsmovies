@@ -1,11 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Ola Renato</h1>
-    </div>
+    <h1>Pagina</h1>
   );
 }
 

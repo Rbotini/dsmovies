@@ -9,7 +9,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  color: aliceblue;
+  color: #ffffff;
 
 }
 
@@ -19,16 +19,20 @@ header {
   font-weight: 700;
 }
 
+.dsmovie-nav-content h1:hover {
+  color: #D9415D;
+}
+
 .dsmovie-icon {
   display: flex;
 }
 
+
 .dsmovie-contact-link {
-  color: aliceblue;
   margin: 0 0 0 10px;
 }
 
-.icon {
-  width: 24px;
-  height: 24px;
+.icon:hover {
+  color: #025939;
+
 }
